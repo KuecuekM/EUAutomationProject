@@ -5,5 +5,11 @@ public class Practice1 {
 
         // successfully push project to GitHUb
         // first Intellij automatically created  remote re
+        //
+        //
+
+        // work 1.1
+
+        // work 1.2
     }
 }
